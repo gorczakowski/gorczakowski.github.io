@@ -1,1 +1,17 @@
+title : Krzysztof Gorczakowski
+# logo: ""
+author :
+  name : Krzysztof Gorczakowski
+  email : k.k.gorczakowski@gmail.com
+  github : gorczakowski
+
+description: > 
+  Hi,
+  <br>
+  I'm an architect and a civil engineer.
+  <br><br>
+
 theme: jekyll-theme-minimal
+markdown: kramdown
+exclude: ["README.md", "/assets/resume.md"]
+# google_analytics: UA-000000-0 # Google Analytics tracking ID here
