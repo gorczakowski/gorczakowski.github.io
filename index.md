@@ -1,13 +1,16 @@
 ---
 layout: page
 title: portfolio
-description: Krzysztof Gorczakowski portfolio on GitHub Pages
+description: Krzysztof Gorczakowski online portfolio
 ---
 
-## About me
+## Portfolio
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+Well, this page is still ***under construction***.  
 
-Another paragraph.
+- [x] figure out how to set this up
+- [ ] populate with actual content
 
-Here is my online [Resume](assets/resume.md){:target="_blank"}.
+While you are here go and check [some of my research](https://github.com/gorczakowski/python-various/blob/master/research_sma3_binance.ipynb){:target="_blank"}.  
+
+Learn about some of the projects I work/ed on: [project one](https://bauprojekte.deutschebahn.com/p/weimar-goessnitz){:target="_blank"}, [project two](https://www.bahnausbau-muenchen.de/projekt.html?PID=23){:target="_blank"}, [project three](https://www.skanska.pl/en-us/offer/offices/our-offer/poznan/nowy-rynek/){:target="_blank"}.  

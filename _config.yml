@@ -1,17 +1,20 @@
-title : Krzysztof Gorczakowski
+title : Gorczakowski
 # logo: ""
 author :
   name : Krzysztof Gorczakowski
   email : k.k.gorczakowski@gmail.com
   github : gorczakowski
 
+greet: Hi, I'm Chris
 description: > 
-  Hi,
+  ...and this is my online portfolio.
   <br>
-  I'm an architect and a civil engineer.
+  I'm passionate about BIM technology and design automation.
+  <br><br>
+  I invite you to check out some of my work.
   <br><br>
 
 theme: jekyll-theme-minimal
 markdown: kramdown
-exclude: ["README.md", "/assets/resume.md"]
+exclude: ["README.md"]
 # google_analytics: UA-000000-0 # Google Analytics tracking ID here
