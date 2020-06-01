@@ -62,4 +62,4 @@ Politechnika Wrocławska – Wroclaw University of Science and Technology
 ## CERTIFICATIONS 
 ---
 
-- [**Revit Architecture Certified Professional**](https://www.youracclaim.com/badges/f45bcc88-fda5-44a2-8ce8-041a6e9747ef/public_url){:target="_blank"} *(05/2018)*  
+- [Revit Architecture Certified Professional](https://www.youracclaim.com/badges/f45bcc88-fda5-44a2-8ce8-041a6e9747ef/public_url){:target="_blank"} *(05/2018)*  
