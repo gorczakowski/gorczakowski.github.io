@@ -4,7 +4,7 @@ title: portfolio
 description: Krzysztof Gorczakowski online portfolio
 ---
 
-## Portfolio
+## Portfolio (work in progress)
 
 ---
 
