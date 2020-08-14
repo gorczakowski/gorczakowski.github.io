@@ -24,6 +24,7 @@ description: Krzysztof Gorczakowski online resume
 
 **BIM Specialist** *(10/2018 – present)*  
 AFRY Deutschland GmbH, Berlin, Germany  
+
 Projects:  
 1. Bahnhof Gößnitz – BIM pilot project for Deutsche Bahn
 2. Daglfinger und Truderinger Kurve – restructuring of the Munich eastern rail node
@@ -40,6 +41,7 @@ Tasks:
 **BIM Coordinator** *(03 – 08/2018)*  
 **Revit Specialist** *(10/2017 – 02/2018)*  
 Maćków Pracownia Projektowa Sp. z o.o., Wrocław, Poland  
+
 Project:  
 1. Office building Nowy Rynek in Poznań
 
@@ -51,12 +53,14 @@ Tasks:
 
 **Architectural Intern** *(08 – 09/2016)*  
 Zeev Baran Architect, Jerusalem, Israel  
+
 Projects:  
 1. Dormitory Complex for the Austrian Hospice in the Old Town of Jerusalem
 2. Residential building in East Jerusalem
 
 **Engineering Intern** *(07 – 09/2014)*  
 Budimex S.A., Świnoujście, Poland  
+
 Projects:  
 1. Residential complex with underground garage
 2. Seaport passenger boarding bridge
@@ -73,11 +77,11 @@ Politechnika Wrocławska – Wroclaw University of Science and Technology
 *Recipient of Rector’s scholarship for best students.*  
 *Thesis: 'Risk assessment and management methods in construction projects using Monte Carlo simulation'*
  
-**B.Sc.Arch., Architecture** *(2018)* 
+**B.Sc.Arch., Architecture** *(2018)*  
 Politechnika Wrocławska – Wroclaw University of Science and Technology  
 *Thesis: 'Viewpoint on Kawcza Góra (Kaffeberg) in Międzyzdroje (Misdroy)'*
 
-**B.Sc.Eng., Civil Engineering – Building Engineering** *(2015)* 
+**B.Sc.Eng., Civil Engineering – Building Engineering** *(2015)*  
 Politechnika Wrocławska – Wroclaw University of Science and Technology  
 *Thesis: 'Design of multi-family residential building in the low-energy standard'*
 
