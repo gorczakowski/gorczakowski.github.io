@@ -4,7 +4,15 @@ title: portfolio
 description: Krzysztof Gorczakowski online portfolio
 ---
 
-## Portfolio (work in progress)
+## Portfolio
+
+---
+
+This site is a "work in progress"...
+
+While you are here please go and check out my:
+- [minimal pairs language training app](https://github.com/gorczakowski/minimal-pairs-app){:target="_blank"}
+- [python repo](https://github.com/gorczakowski/python-various){:target="_blank"}
 
 ---
 
@@ -66,5 +74,3 @@ The existing structure is modeled based on the point-cloud data. Existing roof i
 ### Other Projects
 
 Learn about other projects for Deutsche Bahn I work/ed on: [project one](https://bauprojekte.deutschebahn.com/p/weimar-goessnitz){:target="_blank"}, [project two](https://www.bahnausbau-muenchen.de/projekt.html?PID=23){:target="_blank"}.  
-
-While you are here go and check [some of my python algo research](https://github.com/gorczakowski/python-various/blob/master/research_sma3_binance.ipynb){:target="_blank"} in the [python repo](https://github.com/gorczakowski/python-various){:target="_blank"}. 
