@@ -4,7 +4,7 @@ title: resume
 description: Krzysztof Gorczakowski online resume
 ---
 
-# KRZYSZTOF GORCZAKOWSKI - BIM Specialist
+# KRZYSZTOF GORCZAKOWSKI
 
 > Berlin, Germany | ~~(+49) 00 000 000 000~~ | [k.k.gorczakowski@gmail.com](mailto:k.k.gorczakowski@gmail.com)  
 > [Portfolio](https://gorczakowski.github.io/){:target="_blank"} | [GitHub](https://github.com/gorczakowski){:target="_blank"} | [LinkedIn](https://www.linkedin.com/in/kgorczakowski/){:target="_blank"}  
@@ -12,12 +12,21 @@ description: Krzysztof Gorczakowski online resume
 ## SKILLS
 ---
 
-**BIM/VDC -** Revit, Dynamo, Civil 3D, Navisworks, AutoCAD, BIM 360, BIMcollab  
-**Programming -** Python, C#, git  
-**Project management -** MS Project  
-**3D modeling -** SketchUp, Blender  
-**Graphic -** Photoshop, Illustrator  
+**Programming / IT -** Python (Pandas, NumPy, Matplotlib, Django), SQL (SQLAlchemy, SQLite), Jupyter Notebook, HTML, CSS, git  
+**MS Office -** Excel, Word, Project  
+**BIM/VDC -** Revit, Dynamo, Civil3D, Navisworks, AutoCAD, BIM 360, BIMcollab  
+**3D modeling / Graphics -** SketchUp, Blender, Photoshop  
 **Languages -** English, German, Polish  
+
+## PROJECTS
+---
+
+**Minimal Pairs App** ([GitHub repo link](https://github.com/gorczakowski/minimal-pairs-app){:target="_blank"})  
+
+What I used:  
+ - Python
+ - Tkinter
+ - SQLAlchemy
 
 ## EXPERIENCE
 ---
@@ -88,4 +97,5 @@ Politechnika Wrocławska – Wroclaw University of Science and Technology
 ## CERTIFICATIONS 
 ---
 
+- [Scientific Computing with Python](hhttps://www.freecodecamp.org/certification/fccd139d6bb-bfb9-4d34-814d-b7f60d40a262/scientific-computing-with-python-v7){:target="_blank"} *(12/2020)*  
 - [Revit Architecture Certified Professional](https://www.youracclaim.com/badges/f45bcc88-fda5-44a2-8ce8-041a6e9747ef/public_url){:target="_blank"} *(05/2018)*  
