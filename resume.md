@@ -12,9 +12,9 @@ description: Krzysztof Gorczakowski online resume
 ## SKILLS
 ---
 
+**BIM/VDC -** Revit, Dynamo, Civil3D, Navisworks, AutoCAD, BIM 360, BIMcollab  
 **Programming / IT -** Python (Pandas, NumPy, Matplotlib, Django), SQL (SQLAlchemy, SQLite), Jupyter Notebook, HTML, CSS, git  
 **MS Office -** Excel, Word, Project  
-**BIM/VDC -** Revit, Dynamo, Civil3D, Navisworks, AutoCAD, BIM 360, BIMcollab  
 **3D modeling / Graphics -** SketchUp, Blender, Photoshop  
 **Languages -** English, German, Polish  
 
@@ -36,8 +36,9 @@ AFRY Deutschland GmbH, Berlin, Germany
 
 Projects:  
 1. Bahnhof Gößnitz – BIM pilot project for Deutsche Bahn
-2. Daglfinger und Truderinger Kurve – restructuring of the Munich eastern rail node
-3. Altglienicker Brücke – new bridge in Berlin
+2. Groß-Bahnprojekt ABS/NBS Hamburg/Bremen – Hannover (HHBH)
+3. Daglfinger und Truderinger Kurve – restructuring of the Munich eastern rail node
+4. Altglienicker Brücke – new bridge in Berlin
 
 Tasks:  
  - Creating federated models for large scale infrastructure projects.
