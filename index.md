@@ -19,9 +19,9 @@ While you are here please go and check out my:
 ### Deutsche Bahn Projects
 
 Learn about the projects for Deutsche Bahn I work/ed on at AFRY Deutschland: 
-1. [Bahnhof Gößnitz](https://bauprojekte.deutschebahn.com/p/weimar-goessnitz){:target="_blank"}, 
-2. [Bahnprojekt Hamburg/Bremen – Hannover (HHBH)](https://www.hamburg-bremen-hannover.de/){:target="_blank"}. 
-3. [Daglfinger und Truderinger Kurve (DTK)](https://www.bahnausbau-muenchen.de/projekt.html?PID=23){:target="_blank"}. 
+1. [Bahnhof Gößnitz](https://bauprojekte.deutschebahn.com/p/weimar-goessnitz){:target="_blank"}
+2. [Bahnprojekt Hamburg/Bremen – Hannover (HHBH)](https://www.hamburg-bremen-hannover.de/){:target="_blank"}
+3. [Daglfinger und Truderinger Kurve (DTK)](https://www.bahnausbau-muenchen.de/projekt.html?PID=23){:target="_blank"}
 
 ---
 
