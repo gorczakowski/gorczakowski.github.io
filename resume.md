@@ -13,8 +13,8 @@ description: Krzysztof Gorczakowski online resume
 ---
 
 **BIM/VDC -** Revit, Dynamo, Civil3D, Navisworks, AutoCAD, BIM 360, BIMcollab  
-**Programming / IT -** Python (Pandas, NumPy, Matplotlib, Django), SQL (SQLAlchemy, SQLite), Jupyter Notebook, HTML, CSS, git  
-**MS Office -** Excel, Word, Project  
+**Programming / IT -** Python (Pandas, NumPy, Matplotlib), SQL (SQLAlchemy, SQLite), Jupyter Notebook, HTML, CSS, git  
+**MS Office -** Excel, Word, PowerPoint, Project  
 **3D modeling / Graphics -** SketchUp, Blender, Photoshop  
 **Languages -** English, German, Polish  
 
