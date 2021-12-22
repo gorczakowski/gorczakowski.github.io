@@ -23,7 +23,7 @@ While you are here please go and check out my [minimal pairs language training a
 
 Jupyter Notebook about modeling project schedules and Monte Carlo simulations. In this notebook, I revisit the practical example from my civil engineering master thesis using python.
 
-[Link to the notebook](http://www.mackow.pl/projects/nowy-rynek-a-i-b/){:target="_blank"}  
+[Link to the notebook](https://github.com/gorczakowski/python-various/blob/master/master%20revisited.ipynb){:target="_blank"}  
 
 ---
 ### Deutsche Bahn Projects
