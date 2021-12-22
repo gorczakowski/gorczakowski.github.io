@@ -10,15 +10,25 @@ description: Krzysztof Gorczakowski online portfolio
 
 This site is a "work in progress"...
 
-While you are here please go and check out my:
-- [minimal pairs language training app](https://github.com/gorczakowski/minimal-pairs-app){:target="_blank"}
-- [python repo](https://github.com/gorczakowski/python-various){:target="_blank"}
+<!-- wstawic zdjece appki -->
+While you are here please go and check out my [minimal pairs language training app](https://github.com/gorczakowski/minimal-pairs-app){:target="_blank"}
 
 ---
 
+### My Master Thesis - Revisited With Python
+
+<p align="center">
+    <img width="700" src="./assets/img/thesis1.png">
+</p>
+
+Jupyter Notebook about modeling project schedules and Monte Carlo simulations. In this notebook, I revisit the practical example from my civil engineering master thesis using python.
+
+[Link to the notebook](http://www.mackow.pl/projects/nowy-rynek-a-i-b/){:target="_blank"}  
+
+---
 ### Deutsche Bahn Projects
 
-Learn about the projects for Deutsche Bahn I work/ed on at AFRY Deutschland: 
+Learn about the projects for Deutsche Bahn I worked on at AFRY Deutschland: 
 1. [Bahnhof Gößnitz](https://bauprojekte.deutschebahn.com/p/weimar-goessnitz){:target="_blank"}
 2. [Bahnprojekt Hamburg/Bremen – Hannover (HHBH)](https://www.hamburg-bremen-hannover.de/){:target="_blank"}
 3. [Daglfinger und Truderinger Kurve (DTK)](https://www.bahnausbau-muenchen.de/projekt.html?PID=23){:target="_blank"}
@@ -63,7 +73,7 @@ The general-use nodes (like the two pictured above), can be found in the reposit
     <img width="700" src="./assets/img/a6.png">
 </p>
 
-The bridge geometry is created in its entirety parametrically in dynamo. Street alignment is brought from Civil 3D using the new CivilConnection package.
+Who need Civil? - Variable cross-section bridge design entirely in dynamo. Street alignment is brought from Civil 3D using the new CivilConnection package.
 
 ---
 
